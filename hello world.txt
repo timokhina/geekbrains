@@ -1,3 +1,5 @@
-print("hello nyan cat!");
-print("lol");
-print("avid kedavra");
+print("hello nyan cat!+++");
+print("lol+++");
+print("avid kedavra+++");
+print("мир дружба сосиски+++");
+
