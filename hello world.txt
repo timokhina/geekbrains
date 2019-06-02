@@ -1,1 +1,3 @@
 print("hello nyan cat!");
+print("lol");
+print("trash!");
