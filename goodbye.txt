@@ -1,1 +1,2 @@
 print("goodbye everyone!");
+print("thnx");
