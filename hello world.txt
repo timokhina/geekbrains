@@ -1,1 +1,2 @@
-print("hello nyan cat!");
+print("hello nyan cat!+++");
+print("мир дружба сосиски");
