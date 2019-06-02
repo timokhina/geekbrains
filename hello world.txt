@@ -1,5 +1,5 @@
 print("hello nyan cat!+++");
 print("lol+++");
-print("avid kedavra+++");
+print("avada kedavra+++");
 print("мир дружба сосиски+++");
 
